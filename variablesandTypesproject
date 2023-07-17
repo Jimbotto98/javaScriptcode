@@ -1,0 +1,12 @@
+const myNumber=19;
+
+const myString="Jurgen Klopp";
+
+const myBoolean=false;
+
+
+console.log("Liverpool League Titles Won = " + myNumber);
+
+console.log("Their current manager is " + myString);
+
+console.log("Is Everton better than them? = " + myBoolean);
