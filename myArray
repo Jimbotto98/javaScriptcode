@@ -1,0 +1,13 @@
+var myArray = ["What is the meaning of life?", 42, true,"The HitchHikers Guide to the Galaxy quote"];
+
+console.log(myArray[0]);
+
+console.log(myArray[1]);
+
+console.log(myArray[2]);
+
+console.log(myArray[3]);
+
+// this is my first comment in js
+// this exercise I define an array with the following three variables
+// string, number, bool
